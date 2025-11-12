@@ -27,7 +27,6 @@
 - 🔬 Android + OpenCV Development
 - 🧠 Computer Vision & Machine Learning
 - 🌐 Full Stack Web Applications
-- 🎯 Shortlisted for R&D Developer Role
 
 </td>
 <td width="50%" align="center">

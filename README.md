@@ -34,9 +34,9 @@
 
 ### 🔗 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YourLeetCodeID"><img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nandan-pakki-v-k-01639b253/)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pakkinandan09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/PVKNandan"><img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---

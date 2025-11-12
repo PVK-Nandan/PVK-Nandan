@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DFFE7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Android+%2B+OpenCV+%7C+Computer+Vision;Building+Real-time+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DFFE7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;Android+%2B+OpenCV+%7C+Computer+Vision;Building+Intelligent+Real-time+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=PVK-Nandan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   
@@ -11,20 +11,32 @@
 ---
 
 ## 🎯 About Me
-```javascript
-const nandan = {
-    location: "Andhra Pradesh, India 📍",
-    education: "B.Tech CSE @ Lovely Professional University",
-    currentFocus: ["Android + OpenCV", "Computer Vision", "Full Stack Development"],
-    achievements: [
-        "🏆 LeetCode Rank 783 (Top 4%) - Biweekly Contest 96",
-        "🌟 Dean's Top 10% Student",
-        "🥉 3rd Place - Hack AI Hackathon 2024",
-        "⭐ HackerRank 3 Star Coder"
-    ],
-    funFact: "I debug with passion and coffee ☕"
-};
-```
+
+<table align="center">
+<tr>
+<td width="50%">
+
+📍 **Location:** Andhra Pradesh, India  
+🎓 **Education:** B.Tech CSE @ LPU  
+💼 **Current Focus:**
+- Android + OpenCV Development
+- Computer Vision & ML
+- Full Stack Web Applications
+
+</td>
+<td width="50%">
+
+🏆 **Achievements:**
+- LeetCode Rank 783 (Top 4%)
+- Dean's Top 10% Student
+- 3rd Place - Hack AI Hackathon
+- HackerRank 3 Star Coder
+
+⚡ **Fun Fact:** I debug with passion and coffee ☕
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   
@@ -91,32 +103,92 @@ const nandan = {
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌿 **[PlasticFreeIndia.org](https://github.com/PVK-Nandan/Plasticfreeindia.org)** | Full-stack NGO platform for plastic-free initiatives with dynamic campaigns & volunteer management | MERN, Tailwind CSS |
-| 💬 **[Realtime Chat App](https://github.com/PVK-Nandan/Realtime-Chat-App)** | Real-time chat with public/private rooms, user authentication & live presence tracking | React, Socket.IO, Node.js |
-| 🏥 **[UCSD Project Rishi](https://github.com/PVK-Nandan/UCSD-project-rishi)** | Community development management system with admin panel for NGO operations | MERN Stack |
-| 🤖 **Self-Healing Data Pipeline** | Automated pipeline with ML-based anomaly detection, reducing manual intervention by 85% | Python, Airflow, ML |
-| 📝 **Grammar & Spell Checker** | NLP-powered app with 95% accuracy in error detection using TextBlob & Language Tool | Python, PyTorch, NLP |
-| 🚗 **Car Price Prediction** | ML model with interactive web interface achieving 87% accuracy on real-time data | Linear Regression, Flask |
+<table>
+<tr>
+<td width="50%">
+
+### 🌿 PlasticFreeIndia.org
+Full-stack NGO platform with dynamic campaigns & volunteer management
+<br><br>
+**Tech:** MERN, Tailwind CSS
+<br>
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PVK-Nandan/Plasticfreeindia.org)
+
+</td>
+<td width="50%">
+
+### 💬 Realtime Chat App
+Real-time chat with public/private rooms & live presence tracking
+<br><br>
+**Tech:** React, Socket.IO, Node.js
+<br>
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PVK-Nandan/Realtime-Chat-App)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 UCSD Project Rishi
+Community development management system with admin panel
+<br><br>
+**Tech:** MERN Stack
+<br>
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PVK-Nandan/UCSD-project-rishi)
+
+</td>
+<td width="50%">
+
+### 🤖 Self-Healing Data Pipeline
+Automated ML-based anomaly detection pipeline
+<br><br>
+**Tech:** Python, Airflow, ML
+<br>
+[![Info](https://img.shields.io/badge/View-Details-green?style=for-the-badge&logo=python)](https://github.com/PVK-Nandan)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 Grammar & Spell Checker
+NLP-powered app with 95% accuracy
+<br><br>
+**Tech:** Python, PyTorch, NLP
+<br>
+[![Info](https://img.shields.io/badge/View-Details-green?style=for-the-badge&logo=python)](https://github.com/PVK-Nandan)
+
+</td>
+<td width="50%">
+
+### 🚗 Car Price Prediction
+ML model achieving 87% accuracy
+<br><br>
+**Tech:** Linear Regression, Flask
+<br>
+[![Info](https://img.shields.io/badge/View-Details-green?style=for-the-badge&logo=python)](https://github.com/PVK-Nandan)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 Coding Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PVK-Nandan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DFFE7&icon_color=3DFFE7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PVK-Nandan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFE7"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PVK-Nandan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DFFE7&ring=3DFFE7&fire=FF6B6B&currStreakLabel=3DFFE7" alt="GitHub Streak"/>
-</div>
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=PVK-Nandan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DFFE7&ring=3DFFE7&fire=FF6B6B&currStreakLabel=3DFFE7&dates=8B8B8B)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PVK-Nandan&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DFFE7&line=3DFFE7&point=FF6B6B&area_color=3DFFE7&area=true&hide_border=true" width="95%">
+### 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/PVKNandan?theme=dark&font=Karma&ext=contest)
+
+### 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PVK-Nandan&bg_color=0d1117&color=3dffe7&line=3dffe7&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
@@ -125,17 +197,53 @@ const nandan = {
 
 <div align="center">
 
-| Achievement | Details |
-|-------------|---------|
-| 🏅 **LeetCode Global Rank 783** | Top 4% among 21,000+ participants in Biweekly Contest 96 |
-| 🌟 **Dean's List** | Top 10% students for academic excellence & extracurriculars |
-| 🥉 **Hack AI Hackathon** | 3rd Place Winner - December 2024 |
-| ⭐ **HackerRank 3 Stars** | Competitive Programming Excellence |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏅 LeetCode
+**Global Rank 783**  
+Top 4% among 21K+ participants  
+Biweekly Contest 96
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 Dean's List
+**Top 10% Student**  
+Academic Excellence  
+& Extracurriculars
+
+</td>
+<td align="center" width="33%">
+
+### 🥉 Hack AI
+**3rd Place Winner**  
+Hackathon 2024  
+AI/ML Innovation
+
+</td>
+</tr>
+</table>
 
 ### 📜 Certifications
-- ✅ Complete Machine Learning & Data Science - GeeksforGeeks (Dec 2024)
-- ✅ MERN Full Stack Web Development - 30dc.graphy (Dec 2024)
-- ✅ Introduction to Generative AI - Google Cloud Coursera (May 2024)
+![ML](https://img.shields.io/badge/Machine_Learning-GeeksforGeeks-green?style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN_Stack-30dc.graphy-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/Generative_AI-Google_Cloud-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎨 Coding Journey
+
+<div align="center">
+```
+💻 Total Coding Time: 1000+ hours
+🔥 Current Streak: Building Daily
+📚 Learning: Advanced DSA & System Design
+🎯 Focus: AI/ML + Full Stack Development
+```
 
 </div>
 
@@ -160,12 +268,14 @@ const nandan = {
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/PVK-Nandan/PVK-Nandan/output/github-contribution-grid-snake-dark.svg)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=PVK-Nandan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **⭐ From [PVK Nandan](https://github.com/PVK-Nandan) | Building the future, one commit at a time 🚀**
 

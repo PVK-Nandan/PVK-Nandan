@@ -2,16 +2,10 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🤖+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;🚀+Android+%2B+OpenCV+%7C+Computer+Vision;💡+Building+Intelligent+Real-time+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=🤖+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;🚀+Android+%2B+OpenCV+%7C+Computer+Vision;💡+Building+Intelligent+Real-time+Solutions)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=PVK-Nandan&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
   
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2000&pause=500&color=FF6AC1&center=true&vCenter=true&width=600&lines=🎯+Shortlisted+for+R%26D+Developer+Role;🌱+Building+Plant+Detection+with+YOLOv8;💡+Mastering+Advanced+DSA+%26+System+Design" alt="Current Status" />
 </div>
 
 <br>
@@ -33,6 +27,7 @@
 - 🔬 Android + OpenCV Development
 - 🧠 Computer Vision & Machine Learning
 - 🌐 Full Stack Web Applications
+- 🎯 Shortlisted for R&D Developer Role
 
 </td>
 <td width="50%" align="center">
@@ -45,6 +40,7 @@
 **🏅 Achievements:**
 - 🥉 3rd Place - Hack AI Hackathon 2024
 - ⭐ HackerRank 3 Star Coder
+- 🌱 Building Plant Detection with YOLOv8
 - ☕ I debug with passion and coffee!
 
 </td>
@@ -114,10 +110,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PVK-Nandan&theme=radical&hide_border=true&background=1a1a2e&stroke=00d9ff&ring=ff6ac1&fire=ffdd00&currStreakLabel=00d9ff&sideLabels=ff6ac1&dates=a0a0a0" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=PVK-Nandan&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=ff6ac1&text_color=ffffff" alt="GitHub Stats" width="49%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=PVK-Nandan&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=ff6ac1&text_color=ffffff&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PVK-Nandan&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" alt="Top Languages" width="49%" />
 </div>
 
 <br>
